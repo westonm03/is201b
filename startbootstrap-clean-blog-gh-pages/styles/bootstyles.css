@@ -1,0 +1,65 @@
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 75px;
+    text-align: center;
+    color: rgb(13, 29, 63);
+    text-shadow: 2px 2px rgba(166, 222, 232, 0.817);
+}
+
+.tabback{
+    background-image: url('../images/05-white-brick.png');
+}
+
+.tabnav{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(222, 222, 222);
+    border: black solid 2px;
+    margin: 5px;
+    padding: 5px;
+    left: 5px;
+    text-align: right;
+}
+
+a:hover{
+    color: purple;
+}
+
+a:visited{
+    color: rgb(209, 44, 238);
+    text-shadow: 2px 2px rgb(58, 58, 58);
+    text-anchor: end;
+    text-align: justify;
+}
+
+.copycopy{
+    text-align: center;
+    bottom: 5px;
+    border: solid black 2px;
+    background-color: rgba(166, 222, 232, 0.817);
+
+}
+
+.tabstyle{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(63, 63, 63);   
+    font-weight: bold;
+}
+
+p{
+    background-color:rgb(166, 222, 232);
+    border: goldenrod solid 2px;
+    padding: 10px;
+    margin: 5px;   
+}
+
+.tabsize{
+    padding-left: 100px;
+    padding-right: 100px;    
+}
+
+.ital{
+    font-style: italic;
+    text-decoration: underline black;
+}
